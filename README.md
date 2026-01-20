@@ -4,7 +4,7 @@ Sales forecasting using time-series modeling with 6-month rolling validation
 
 ## 🔍 Project Overview
 This project focuses on building a **robust and business-ready time-series forecasting model** to predict **monthly product unit sales**.  
-The model is designed to meet strict accuracy requirements using **rolling 6-month unseen validation** and **Mean Absolute Percentage Error (MAPE)** as the evaluation metric.
+The model is designed to meet strict accuracy requirements using **rolling 6-month unseen validation** and **Mean Absolute Percentage Error (MAPE)** as the evaluation metric
 
 The solution uses **Facebook Prophet** enhanced with **external regressors**, **custom seasonality**, and **leakage-free validation**, ensuring both academic rigor and real-world applicability.
 
